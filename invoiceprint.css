@@ -1,0 +1,20 @@
+.btn , .NoPrint 
+{
+    display: none;
+}
+
+.form-control
+{
+    border: 2px;
+}
+
+.input-group-text
+{
+    border: 0px;
+    background-color: rgb(216, 216, 216);
+}
+
+table 
+{
+    border : 1px solid black;
+}
